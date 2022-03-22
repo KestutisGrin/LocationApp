@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="location_for_distance_sort">For sorting by distance. Choose location for sorting.</string>
+</resources>
